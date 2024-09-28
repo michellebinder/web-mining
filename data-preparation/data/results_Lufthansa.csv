@@ -1,0 +1,244 @@
+,airline_name,crawling_date,departure_airport,destination_airport,date,travel_duration,departure_time,arrival_time,transit,transit_duration,price
+0,Lufthansa,05-08-2024,Frankfurt,Berlin,06-08-2024,01:10,15:45,16:55,False,00:00,333.6
+1,Lufthansa,05-08-2024,Frankfurt,Hamburg,06-08-2024,01:05,20:15,21:20,False,00:00,313.08
+2,Lufthansa,05-08-2024,Frankfurt,München,06-08-2024,00:55,15:15,16:10,False,00:00,369.0
+3,Lufthansa,05-08-2024,Frankfurt,London,06-08-2024,01:25,06:50,07:15,False,00:00,235.71
+4,Lufthansa,05-08-2024,Frankfurt,Palma de Mallorca,06-08-2024,02:05,10:20,12:25,False,00:00,315.98
+5,Lufthansa,05-08-2024,Frankfurt,Istanbul,06-08-2024,03:00,13:00,17:00,False,00:00,446.65
+6,Lufthansa,05-08-2024,Frankfurt,Dubai,06-08-2024,22:15,20:50,21:05,True,14:45,952.23
+7,Lufthansa,05-08-2024,Frankfurt,New York,06-08-2024,13:30,09:15,16:45,True,02:20,1617.87
+8,Lufthansa,05-08-2024,Frankfurt,Shanghai,06-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+9,Lufthansa,06-08-2024,Frankfurt,Berlin,07-08-2024,01:10,11:45,12:55,False,00:00,333.6
+10,Lufthansa,06-08-2024,Frankfurt,Hamburg,07-08-2024,01:05,20:15,21:20,False,00:00,313.08
+11,Lufthansa,06-08-2024,Frankfurt,München,07-08-2024,00:55,13:15,14:10,False,00:00,369.0
+12,Lufthansa,06-08-2024,Frankfurt,London,07-08-2024,01:25,16:00,16:25,False,00:00,235.68
+13,Lufthansa,06-08-2024,Frankfurt,Palma de Mallorca,07-08-2024,02:05,10:20,12:25,False,00:00,315.98
+14,Lufthansa,06-08-2024,Frankfurt,Istanbul,07-08-2024,03:00,09:05,13:05,False,00:00,407.65
+15,Lufthansa,06-08-2024,Frankfurt,Dubai,07-08-2024,22:05,21:00,21:05,True,13:35,956.33
+16,Lufthansa,06-08-2024,Frankfurt,New York,07-08-2024,10:55,07:50,12:45,True,01:15,1601.55
+17,Lufthansa,06-08-2024,Frankfurt,Shanghai,07-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+18,Lufthansa,07-08-2024,Frankfurt,Berlin,08-08-2024,01:10,11:45,12:55,False,00:00,333.6
+19,Lufthansa,07-08-2024,Frankfurt,Hamburg,08-08-2024,01:05,20:15,21:20,False,00:00,313.08
+20,Lufthansa,07-08-2024,Frankfurt,München,08-08-2024,00:55,13:15,14:10,False,00:00,369.0
+21,Lufthansa,07-08-2024,Frankfurt,London,08-08-2024,01:25,16:00,16:25,False,00:00,235.57
+22,Lufthansa,07-08-2024,Frankfurt,Palma de Mallorca,08-08-2024,02:05,10:20,12:25,False,00:00,315.98
+23,Lufthansa,07-08-2024,Frankfurt,Istanbul,08-08-2024,03:00,17:20,21:20,False,00:00,430.65
+24,Lufthansa,07-08-2024,Frankfurt,Dubai,08-08-2024,11:15,07:50,21:05,True,03:55,1005.22
+25,Lufthansa,07-08-2024,Frankfurt,New York,08-08-2024,11:30,07:50,13:20,True,01:25,1601.51
+26,Lufthansa,07-08-2024,Frankfurt,Shanghai,08-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+27,Lufthansa,08-08-2024,Frankfurt,Berlin,09-08-2024,01:10,21:15,22:25,False,00:00,199.6
+28,Lufthansa,08-08-2024,Frankfurt,Hamburg,09-08-2024,01:05,20:15,21:20,False,00:00,313.08
+29,Lufthansa,08-08-2024,Frankfurt,München,09-08-2024,00:55,10:15,11:10,False,00:00,285.0
+30,Lufthansa,08-08-2024,Frankfurt,London,09-08-2024,01:25,06:50,07:15,False,00:00,235.52
+31,Lufthansa,08-08-2024,Frankfurt,Palma de Mallorca,09-08-2024,02:10,09:05,11:15,False,00:00,315.98
+32,Lufthansa,08-08-2024,Frankfurt,Istanbul,09-08-2024,03:00,09:05,13:05,False,00:00,243.65
+33,Lufthansa,08-08-2024,Frankfurt,Dubai,09-08-2024,22:05,21:00,21:05,True,13:40,966.48
+34,Lufthansa,08-08-2024,Frankfurt,New York,09-08-2024,10:55,07:50,12:45,True,01:15,1601.54
+35,Lufthansa,08-08-2024,Frankfurt,Shanghai,09-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+36,Lufthansa,09-08-2024,Frankfurt,Berlin,10-08-2024,01:10,06:45,07:55,False,00:00,177.6
+37,Lufthansa,09-08-2024,Frankfurt,Hamburg,10-08-2024,01:05,06:30,07:35,False,00:00,241.08
+38,Lufthansa,09-08-2024,Frankfurt,München,10-08-2024,00:55,07:15,08:10,False,00:00,189.0
+39,Lufthansa,09-08-2024,Frankfurt,London,10-08-2024,01:40,21:30,22:10,False,00:00,276.65
+40,Lufthansa,09-08-2024,Frankfurt,Palma de Mallorca,10-08-2024,02:10,04:50,07:00,False,00:00,315.98
+41,Lufthansa,09-08-2024,Frankfurt,Istanbul,10-08-2024,03:00,17:20,21:20,False,00:00,347.65
+42,Lufthansa,09-08-2024,Frankfurt,Dubai,10-08-2024,25:25,17:40,21:05,True,17:10,941.31
+43,Lufthansa,09-08-2024,Frankfurt,New York,10-08-2024,11:10,15:00,20:10,True,01:25,1524.46
+44,Lufthansa,09-08-2024,Frankfurt,Shanghai,10-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+45,Lufthansa,10-08-2024,Frankfurt,Berlin,11-08-2024,01:10,07:45,08:55,False,00:00,237.6
+46,Lufthansa,10-08-2024,Frankfurt,Hamburg,11-08-2024,01:05,06:30,07:35,False,00:00,241.08
+47,Lufthansa,10-08-2024,Frankfurt,München,11-08-2024,00:55,07:15,08:10,False,00:00,189.0
+48,Lufthansa,10-08-2024,Frankfurt,London,11-08-2024,17:05,06:40,17:45,True,05:30,1713.9
+49,Lufthansa,10-08-2024,Frankfurt,Palma de Mallorca,11-08-2024,02:10,04:50,07:00,False,00:00,315.98
+50,Lufthansa,10-08-2024,Frankfurt,Istanbul,11-08-2024,03:00,09:05,13:05,False,00:00,362.65
+51,Lufthansa,10-08-2024,Frankfurt,Dubai,11-08-2024,11:15,07:50,21:05,True,03:55,975.04
+52,Lufthansa,10-08-2024,Frankfurt,New York,11-08-2024,08:30,11:10,13:40,False,00:00,1601.42
+53,Lufthansa,10-08-2024,Frankfurt,Shanghai,11-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+54,Lufthansa,11-08-2024,Frankfurt,Berlin,12-08-2024,01:10,11:45,12:55,False,00:00,333.6
+55,Lufthansa,11-08-2024,Frankfurt,Hamburg,12-08-2024,01:05,20:15,21:20,False,00:00,313.08
+56,Lufthansa,11-08-2024,Frankfurt,München,12-08-2024,00:55,12:15,13:10,False,00:00,369.0
+57,Lufthansa,11-08-2024,Frankfurt,London,12-08-2024,01:25,18:10,18:35,False,00:00,273.52
+58,Lufthansa,11-08-2024,Frankfurt,Palma de Mallorca,12-08-2024,02:05,10:20,12:25,False,00:00,315.98
+59,Lufthansa,11-08-2024,Frankfurt,Istanbul,12-08-2024,03:00,09:05,13:05,False,00:00,299.65
+60,Lufthansa,11-08-2024,Frankfurt,Dubai,12-08-2024,11:35,07:30,21:05,True,03:10,933.66
+61,Lufthansa,11-08-2024,Frankfurt,New York,12-08-2024,10:55,07:50,12:45,True,01:15,1601.42
+62,Lufthansa,11-08-2024,Frankfurt,Shanghai,12-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+63,Lufthansa,12-08-2024,Frankfurt,Berlin,13-08-2024,01:10,17:45,18:55,False,00:00,333.6
+64,Lufthansa,12-08-2024,Frankfurt,Hamburg,13-08-2024,01:05,20:15,21:20,False,00:00,313.08
+65,Lufthansa,12-08-2024,Frankfurt,München,13-08-2024,00:55,13:15,14:10,False,00:00,369.0
+66,Lufthansa,12-08-2024,Frankfurt,London,13-08-2024,01:25,08:15,08:40,False,00:00,235.52
+67,Lufthansa,12-08-2024,Frankfurt,Palma de Mallorca,13-08-2024,02:05,10:20,12:25,False,00:00,315.98
+68,Lufthansa,12-08-2024,Frankfurt,Istanbul,13-08-2024,03:00,09:05,13:05,False,00:00,243.65
+69,Lufthansa,12-08-2024,Frankfurt,Dubai,13-08-2024,22:05,21:00,21:05,True,13:35,952.03
+70,Lufthansa,12-08-2024,Frankfurt,New York,13-08-2024,10:55,07:50,12:45,True,01:15,1601.42
+71,Lufthansa,12-08-2024,Frankfurt,Shanghai,13-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+72,Lufthansa,13-08-2024,Frankfurt,Berlin,14-08-2024,01:10,11:45,12:55,False,00:00,333.6
+73,Lufthansa,13-08-2024,Frankfurt,Hamburg,14-08-2024,01:05,20:15,21:20,False,00:00,313.08
+74,Lufthansa,13-08-2024,Frankfurt,München,14-08-2024,00:55,13:15,14:10,False,00:00,369.0
+75,Lufthansa,13-08-2024,Frankfurt,London,14-08-2024,01:25,08:15,08:40,False,00:00,235.6
+76,Lufthansa,13-08-2024,Frankfurt,Palma de Mallorca,14-08-2024,02:05,10:20,12:25,False,00:00,315.98
+77,Lufthansa,13-08-2024,Frankfurt,Istanbul,14-08-2024,03:00,09:05,13:05,False,00:00,243.65
+78,Lufthansa,13-08-2024,Frankfurt,Dubai,14-08-2024,25:25,17:40,21:05,True,14:55,979.11
+79,Lufthansa,13-08-2024,Frankfurt,New York,14-08-2024,10:55,07:50,12:45,True,01:15,1601.39
+80,Lufthansa,13-08-2024,Frankfurt,Shanghai,14-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+81,Lufthansa,14-08-2024,Frankfurt,Berlin,15-08-2024,01:10,21:15,22:25,False,00:00,333.6
+82,Lufthansa,14-08-2024,Frankfurt,Hamburg,15-08-2024,01:05,20:15,21:20,False,00:00,313.08
+83,Lufthansa,14-08-2024,Frankfurt,München,15-08-2024,00:55,07:15,08:10,False,00:00,141.0
+84,Lufthansa,14-08-2024,Frankfurt,London,15-08-2024,01:25,08:15,08:40,False,00:00,235.6
+85,Lufthansa,14-08-2024,Frankfurt,Palma de Mallorca,15-08-2024,02:05,10:20,12:25,False,00:00,315.98
+86,Lufthansa,14-08-2024,Frankfurt,Istanbul,15-08-2024,03:00,09:05,13:05,False,00:00,243.65
+87,Lufthansa,14-08-2024,Frankfurt,Dubai,15-08-2024,11:15,07:50,21:05,True,03:55,911.94
+88,Lufthansa,14-08-2024,Frankfurt,New York,15-08-2024,11:30,07:50,13:20,True,01:25,1601.31
+89,Lufthansa,14-08-2024,Frankfurt,Shanghai,15-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+90,Lufthansa,15-08-2024,Frankfurt,Berlin,16-08-2024,01:10,21:15,22:25,False,00:00,177.6
+91,Lufthansa,15-08-2024,Frankfurt,Hamburg,16-08-2024,01:05,20:15,21:20,False,00:00,313.08
+92,Lufthansa,15-08-2024,Frankfurt,München,16-08-2024,00:55,07:15,08:10,False,00:00,141.0
+93,Lufthansa,15-08-2024,Frankfurt,London,16-08-2024,01:25,08:15,08:40,False,00:00,235.62
+94,Lufthansa,15-08-2024,Frankfurt,Palma de Mallorca,16-08-2024,02:10,09:05,11:15,False,00:00,315.98
+95,Lufthansa,15-08-2024,Frankfurt,Istanbul,16-08-2024,03:00,09:05,13:05,False,00:00,243.65
+96,Lufthansa,15-08-2024,Frankfurt,Dubai,16-08-2024,11:15,07:50,21:05,True,03:55,919.91
+97,Lufthansa,15-08-2024,Frankfurt,New York,16-08-2024,10:55,07:50,12:45,True,01:15,1601.19
+98,Lufthansa,15-08-2024,Frankfurt,Shanghai,16-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+99,Lufthansa,16-08-2024,Frankfurt,Berlin,17-08-2024,01:10,06:45,07:55,False,00:00,177.6
+100,Lufthansa,16-08-2024,Frankfurt,Hamburg,17-08-2024,01:05,06:30,07:35,False,00:00,241.08
+101,Lufthansa,16-08-2024,Frankfurt,München,17-08-2024,00:55,07:15,08:10,False,00:00,189.0
+102,Lufthansa,16-08-2024,Frankfurt,London,17-08-2024,01:40,21:30,22:10,False,00:00,276.65
+103,Lufthansa,16-08-2024,Frankfurt,Palma de Mallorca,17-08-2024,02:10,04:50,07:00,False,00:00,315.98
+104,Lufthansa,16-08-2024,Frankfurt,Istanbul,17-08-2024,03:00,09:05,13:05,False,00:00,243.65
+105,Lufthansa,16-08-2024,Frankfurt,Dubai,17-08-2024,12:25,06:40,21:05,True,05:05,982.85
+106,Lufthansa,16-08-2024,Frankfurt,New York,17-08-2024,11:30,13:15,18:45,True,01:55,1484.87
+107,Lufthansa,16-08-2024,Frankfurt,Shanghai,17-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+108,Lufthansa,17-08-2024,Frankfurt,Berlin,18-08-2024,01:10,07:45,08:55,False,00:00,177.6
+109,Lufthansa,17-08-2024,Frankfurt,Hamburg,18-08-2024,01:05,06:30,07:35,False,00:00,241.08
+110,Lufthansa,17-08-2024,Frankfurt,München,18-08-2024,00:55,07:15,08:10,False,00:00,189.0
+111,Lufthansa,17-08-2024,Frankfurt,London,18-08-2024,01:25,16:50,17:15,False,00:00,339.6
+112,Lufthansa,17-08-2024,Frankfurt,Palma de Mallorca,18-08-2024,02:10,04:50,07:00,False,00:00,315.98
+113,Lufthansa,17-08-2024,Frankfurt,Istanbul,18-08-2024,03:00,09:05,13:05,False,00:00,243.65
+114,Lufthansa,17-08-2024,Frankfurt,Dubai,18-08-2024,11:15,07:50,21:05,True,03:55,1646.79
+115,Lufthansa,17-08-2024,Frankfurt,New York,18-08-2024,11:25,08:55,14:20,True,01:40,1446.41
+116,Lufthansa,17-08-2024,Frankfurt,Shanghai,18-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+117,Lufthansa,18-08-2024,Frankfurt,Berlin,19-08-2024,01:10,11:45,12:55,False,00:00,333.6
+118,Lufthansa,18-08-2024,Frankfurt,Hamburg,19-08-2024,01:05,20:15,21:20,False,00:00,313.08
+119,Lufthansa,18-08-2024,Frankfurt,München,19-08-2024,00:55,12:15,13:10,False,00:00,369.0
+120,Lufthansa,18-08-2024,Frankfurt,London,19-08-2024,01:25,18:10,18:35,False,00:00,273.52
+121,Lufthansa,18-08-2024,Frankfurt,Palma de Mallorca,19-08-2024,02:05,10:20,12:25,False,00:00,315.98
+122,Lufthansa,18-08-2024,Frankfurt,Istanbul,19-08-2024,03:00,09:05,13:05,False,00:00,299.65
+123,Lufthansa,18-08-2024,Frankfurt,Dubai,19-08-2024,11:35,07:30,21:05,True,03:10,933.66
+124,Lufthansa,18-08-2024,Frankfurt,New York,19-08-2024,10:55,07:50,12:45,True,01:15,1601.42
+125,Lufthansa,18-08-2024,Frankfurt,Shanghai,19-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+126,Lufthansa,19-08-2024,Frankfurt,Berlin,20-08-2024,01:10,14:45,15:55,False,00:00,333.6
+127,Lufthansa,19-08-2024,Frankfurt,Hamburg,20-08-2024,01:05,20:15,21:20,False,00:00,313.08
+128,Lufthansa,19-08-2024,Frankfurt,München,20-08-2024,00:55,13:15,14:10,False,00:00,369.0
+129,Lufthansa,19-08-2024,Frankfurt,London,20-08-2024,01:25,16:00,16:25,False,00:00,235.6
+130,Lufthansa,19-08-2024,Frankfurt,Palma de Mallorca,20-08-2024,02:05,10:20,12:25,False,00:00,315.98
+131,Lufthansa,19-08-2024,Frankfurt,Istanbul,20-08-2024,03:00,09:05,13:05,False,00:00,243.65
+132,Lufthansa,19-08-2024,Frankfurt,Dubai,20-08-2024,25:25,17:40,21:05,True,14:58,933.68
+133,Lufthansa,19-08-2024,Frankfurt,New York,20-08-2024,12:05,06:40,12:45,True,02:25,1600.94
+134,Lufthansa,19-08-2024,Frankfurt,Shanghai,20-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+135,Lufthansa,20-08-2024,Frankfurt,Berlin,21-08-2024,01:10,11:45,12:55,False,00:00,333.6
+136,Lufthansa,20-08-2024,Frankfurt,Hamburg,21-08-2024,01:05,20:15,21:20,False,00:00,313.08
+137,Lufthansa,20-08-2024,Frankfurt,München,21-08-2024,00:55,13:15,14:10,False,00:00,369.0
+138,Lufthansa,20-08-2024,Frankfurt,London,21-08-2024,01:25,06:50,07:15,False,00:00,235.69
+139,Lufthansa,20-08-2024,Frankfurt,Palma de Mallorca,21-08-2024,02:05,10:20,12:25,False,00:00,315.98
+140,Lufthansa,20-08-2024,Frankfurt,Istanbul,21-08-2024,03:00,09:05,13:05,False,00:00,243.65
+141,Lufthansa,20-08-2024,Frankfurt,Dubai,21-08-2024,12:25,06:40,21:05,True,05:05,1019.79
+142,Lufthansa,20-08-2024,Frankfurt,New York,21-08-2024,11:10,15:00,20:10,True,01:25,1452.84
+143,Lufthansa,20-08-2024,Frankfurt,Shanghai,21-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+144,Lufthansa,21-08-2024,Frankfurt,Berlin,22-08-2024,01:10,09:45,10:55,False,00:00,333.6
+145,Lufthansa,21-08-2024,Frankfurt,Hamburg,22-08-2024,01:05,20:15,21:20,False,00:00,313.08
+146,Lufthansa,21-08-2024,Frankfurt,München,22-08-2024,00:55,13:15,14:10,False,00:00,369.0
+147,Lufthansa,21-08-2024,Frankfurt,London,22-08-2024,01:25,08:15,08:40,False,00:00,235.67
+148,Lufthansa,21-08-2024,Frankfurt,Palma de Mallorca,22-08-2024,02:05,10:20,12:25,False,00:00,315.98
+149,Lufthansa,21-08-2024,Frankfurt,Istanbul,22-08-2024,03:00,09:05,13:05,False,00:00,243.65
+150,Lufthansa,21-08-2024,Frankfurt,Dubai,22-08-2024,06:30,14:05,22:35,False,00:00,953.51
+151,Lufthansa,21-08-2024,Frankfurt,New York,22-08-2024,11:30,13:15,18:45,True,01:55,1575.74
+152,Lufthansa,21-08-2024,Frankfurt,Shanghai,22-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+153,Lufthansa,22-08-2024,Frankfurt,Berlin,23-08-2024,01:10,21:15,22:25,False,00:00,207.6
+154,Lufthansa,22-08-2024,Frankfurt,Hamburg,23-08-2024,01:05,20:15,21:20,False,00:00,313.08
+155,Lufthansa,22-08-2024,Frankfurt,München,23-08-2024,00:55,20:15,21:10,False,00:00,285.0
+156,Lufthansa,22-08-2024,Frankfurt,London,23-08-2024,01:25,06:50,07:15,False,00:00,235.66
+157,Lufthansa,22-08-2024,Frankfurt,Palma de Mallorca,23-08-2024,02:10,09:05,11:15,False,00:00,315.98
+158,Lufthansa,22-08-2024,Frankfurt,Istanbul,23-08-2024,03:00,09:05,13:05,False,00:00,243.65
+159,Lufthansa,22-08-2024,Frankfurt,Dubai,23-08-2024,06:30,14:05,22:35,False,00:00,999.5
+160,Lufthansa,22-08-2024,Frankfurt,New York,23-08-2024,10:55,07:50,12:45,True,01:15,1600.65
+161,Lufthansa,22-08-2024,Frankfurt,Shanghai,23-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+162,Lufthansa,23-08-2024,Frankfurt,Berlin,24-08-2024,01:10,06:45,07:55,False,00:00,177.6
+163,Lufthansa,23-08-2024,Frankfurt,Hamburg,24-08-2024,01:05,06:30,07:35,False,00:00,241.08
+164,Lufthansa,23-08-2024,Frankfurt,München,24-08-2024,00:55,07:15,08:10,False,00:00,189.0
+165,Lufthansa,23-08-2024,Frankfurt,London,24-08-2024,01:40,21:30,22:10,False,00:00,276.65
+166,Lufthansa,23-08-2024,Frankfurt,Palma de Mallorca,24-08-2024,02:10,04:50,07:00,False,00:00,315.98
+167,Lufthansa,23-08-2024,Frankfurt,Istanbul,24-08-2024,03:00,09:05,13:05,False,00:00,243.65
+168,Lufthansa,23-08-2024,Frankfurt,Dubai,24-08-2024,25:25,17:40,21:05,True,14:58,940.88
+169,Lufthansa,23-08-2024,Frankfurt,New York,24-08-2024,11:10,15:00,20:10,True,01:25,1387.58
+170,Lufthansa,23-08-2024,Frankfurt,Shanghai,24-08-2024,14:00,20:00,16:00,True,01:50,3503.06
+171,Lufthansa,24-08-2024,Frankfurt,Berlin,25-08-2024,01:10,07:45,08:55,False,00:00,177.6
+172,Lufthansa,24-08-2024,Frankfurt,Hamburg,25-08-2024,01:05,06:30,07:35,False,00:00,241.08
+173,Lufthansa,24-08-2024,Frankfurt,München,25-08-2024,00:55,07:15,08:10,False,00:00,189.0
+174,Lufthansa,24-08-2024,Frankfurt,London,25-08-2024,01:25,16:50,17:15,False,00:00,235.73
+175,Lufthansa,24-08-2024,Frankfurt,Palma de Mallorca,25-08-2024,02:10,04:50,07:00,False,00:00,315.98
+176,Lufthansa,24-08-2024,Frankfurt,Istanbul,25-08-2024,03:00,09:05,13:05,False,00:00,243.65
+177,Lufthansa,24-08-2024,Frankfurt,Dubai,25-08-2024,06:30,14:05,22:35,False,00:00,997.5
+178,Lufthansa,24-08-2024,Frankfurt,New York,25-08-2024,12:05,06:40,12:45,True,02:25,1600.63
+179,Lufthansa,24-08-2024,Frankfurt,Shanghai,25-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+180,Lufthansa,25-08-2024,Frankfurt,Berlin,26-08-2024,01:10,11:45,12:55,False,00:00,333.6
+181,Lufthansa,25-08-2024,Frankfurt,Hamburg,26-08-2024,01:05,20:15,21:20,False,00:00,313.08
+182,Lufthansa,25-08-2024,Frankfurt,München,26-08-2024,00:55,12:15,13:10,False,00:00,369.0
+183,Lufthansa,25-08-2024,Frankfurt,London,26-08-2024,01:25,16:00,16:25,False,00:00,295.73
+184,Lufthansa,25-08-2024,Frankfurt,Palma de Mallorca,26-08-2024,02:05,10:20,12:25,False,00:00,315.98
+185,Lufthansa,25-08-2024,Frankfurt,Istanbul,26-08-2024,03:00,09:05,13:05,False,00:00,243.65
+186,Lufthansa,25-08-2024,Frankfurt,Dubai,26-08-2024,11:15,07:50,21:05,True,03:55,1019.91
+187,Lufthansa,25-08-2024,Frankfurt,New York,26-08-2024,11:50,10:25,16:15,True,02:00,1596.78
+188,Lufthansa,25-08-2024,Frankfurt,Shanghai,26-08-2024,17:15,07:50,07:05,True,04:15,1530.17
+189,Lufthansa,26-08-2024,Frankfurt,Berlin,27-08-2024,01:10,14:45,15:55,False,00:00,333.6
+190,Lufthansa,26-08-2024,Frankfurt,Hamburg,27-08-2024,01:05,21:15,22:20,False,00:00,407.08
+191,Lufthansa,26-08-2024,Frankfurt,München,27-08-2024,00:55,15:15,16:10,False,00:00,369.0
+192,Lufthansa,26-08-2024,Frankfurt,London,27-08-2024,01:25,06:50,07:15,False,00:00,235.73
+193,Lufthansa,26-08-2024,Frankfurt,Palma de Mallorca,27-08-2024,02:05,10:20,12:25,False,00:00,315.98
+194,Lufthansa,26-08-2024,Frankfurt,Istanbul,27-08-2024,03:00,09:05,13:05,False,00:00,243.65
+195,Lufthansa,26-08-2024,Frankfurt,Dubai,27-08-2024,11:15,07:50,21:05,True,03:55,1019.91
+196,Lufthansa,26-08-2024,Frankfurt,New York,27-08-2024,11:30,07:50,13:20,True,01:25,1600.63
+197,Lufthansa,26-08-2024,Frankfurt,Shanghai,27-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+198,Lufthansa,27-08-2024,Frankfurt,Berlin,28-08-2024,01:10,14:45,15:55,False,00:00,333.6
+199,Lufthansa,27-08-2024,Frankfurt,Hamburg,28-08-2024,01:05,20:15,21:20,False,00:00,313.08
+200,Lufthansa,27-08-2024,Frankfurt,München,28-08-2024,00:55,15:15,16:10,False,00:00,369.0
+201,Lufthansa,27-08-2024,Frankfurt,London,28-08-2024,01:25,16:00,16:25,False,00:00,295.8
+202,Lufthansa,27-08-2024,Frankfurt,Palma de Mallorca,28-08-2024,02:10,13:05,15:15,False,00:00,315.98
+203,Lufthansa,27-08-2024,Frankfurt,Istanbul,28-08-2024,03:00,09:05,13:05,False,00:00,243.65
+204,Lufthansa,27-08-2024,Frankfurt,Dubai,28-08-2024,06:30,14:05,22:35,False,00:00,1011.49
+205,Lufthansa,27-08-2024,Frankfurt,New York,28-08-2024,10:55,07:50,12:45,True,01:15,1600.41
+206,Lufthansa,27-08-2024,Frankfurt,Shanghai,28-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+207,Lufthansa,28-08-2024,Frankfurt,Berlin,29-08-2024,01:10,12:45,13:55,False,00:00,333.6
+208,Lufthansa,28-08-2024,Frankfurt,Hamburg,29-08-2024,01:05,20:15,21:20,False,00:00,313.08
+209,Lufthansa,28-08-2024,Frankfurt,München,29-08-2024,00:55,13:15,14:10,False,00:00,369.0
+210,Lufthansa,28-08-2024,Frankfurt,London,29-08-2024,01:25,06:50,07:15,False,00:00,290.8
+211,Lufthansa,28-08-2024,Frankfurt,Palma de Mallorca,29-08-2024,02:10,13:05,15:15,False,00:00,315.98
+212,Lufthansa,28-08-2024,Frankfurt,Istanbul,29-08-2024,03:00,09:05,13:05,False,00:00,243.65
+213,Lufthansa,28-08-2024,Frankfurt,Dubai,29-08-2024,11:15,07:50,21:05,True,03:55,1019.92
+214,Lufthansa,28-08-2024,Frankfurt,New York,29-08-2024,10:55,07:50,12:45,True,01:15,1600.5
+215,Lufthansa,28-08-2024,Frankfurt,Shanghai,29-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+216,Lufthansa,29-08-2024,Frankfurt,Berlin,30-08-2024,01:10,09:45,10:55,False,00:00,282.6
+217,Lufthansa,29-08-2024,Frankfurt,Hamburg,30-08-2024,01:05,20:15,21:20,False,00:00,313.08
+218,Lufthansa,29-08-2024,Frankfurt,München,30-08-2024,00:55,20:15,21:10,False,00:00,317.0
+219,Lufthansa,29-08-2024,Frankfurt,London,30-08-2024,01:25,06:50,07:15,False,00:00,453.84
+220,Lufthansa,29-08-2024,Frankfurt,Palma de Mallorca,30-08-2024,02:10,09:05,11:15,False,00:00,315.98
+221,Lufthansa,29-08-2024,Frankfurt,Istanbul,30-08-2024,03:00,09:05,13:05,False,00:00,243.65
+222,Lufthansa,29-08-2024,Frankfurt,Dubai,30-08-2024,11:15,07:50,21:05,True,03:55,1019.97
+223,Lufthansa,29-08-2024,Frankfurt,New York,30-08-2024,11:30,07:50,13:20,True,01:25,1600.56
+224,Lufthansa,29-08-2024,Frankfurt,Shanghai,30-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+225,Lufthansa,30-08-2024,Frankfurt,Berlin,31-08-2024,01:10,06:45,07:55,False,00:00,177.6
+226,Lufthansa,30-08-2024,Frankfurt,Hamburg,31-08-2024,01:05,06:30,07:35,False,00:00,241.08
+227,Lufthansa,30-08-2024,Frankfurt,München,31-08-2024,00:55,07:15,08:10,False,00:00,189.0
+228,Lufthansa,30-08-2024,Frankfurt,London,31-08-2024,01:40,08:00,08:40,False,00:00,540.65
+229,Lufthansa,30-08-2024,Frankfurt,Palma de Mallorca,31-08-2024,02:10,04:50,07:00,False,00:00,315.98
+230,Lufthansa,30-08-2024,Frankfurt,Istanbul,31-08-2024,03:00,09:05,13:05,False,00:00,243.65
+231,Lufthansa,30-08-2024,Frankfurt,Dubai,31-08-2024,12:25,06:40,21:05,True,05:05,1020.07
+232,Lufthansa,30-08-2024,Frankfurt,New York,31-08-2024,11:20,07:15,12:35,True,01:25,1601.46
+233,Lufthansa,30-08-2024,Frankfurt,Shanghai,31-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+234,Lufthansa,31-08-2024,Frankfurt,Berlin,01-09-2024,01:10,06:45,07:55,False,00:00,177.6
+235,Lufthansa,31-08-2024,Frankfurt,Hamburg,01-09-2024,01:05,06:30,07:35,False,00:00,241.08
+236,Lufthansa,31-08-2024,Frankfurt,München,01-09-2024,00:55,07:15,08:10,False,00:00,189.0
+237,Lufthansa,31-08-2024,Frankfurt,London,01-09-2024,01:40,08:00,08:40,False,00:00,536.65
+238,Lufthansa,31-08-2024,Frankfurt,Palma de Mallorca,01-09-2024,02:10,04:50,07:00,False,00:00,315.98
+239,Lufthansa,31-08-2024,Frankfurt,Istanbul,01-09-2024,03:00,09:05,13:05,False,00:00,243.65
+240,Lufthansa,31-08-2024,Frankfurt,Dubai,01-09-2024,12:25,06:40,21:05,True,05:05,1020.1
+241,Lufthansa,31-08-2024,Frankfurt,New York,01-09-2024,11:20,07:15,12:35,True,01:25,1601.59
+242,Lufthansa,31-08-2024,Frankfurt,Shanghai,01-09-2024,12:15,15:00,09:15,False,00:00,1521.76
