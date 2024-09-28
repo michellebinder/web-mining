@@ -1,0 +1,1301 @@
+date,level,message
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-05,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-05,INFO,URL opened successfully
+2024-08-05,INFO,Accepted cookies successfully
+2024-08-05,INFO,Flight details page clicked
+2024-08-05,INFO,Flight details page loaded successfully
+2024-08-05,INFO,Transit duration extracted
+2024-08-05,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-05,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-05,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-05,INFO,URL opened successfully
+2024-08-05,INFO,Accepted cookies successfully
+2024-08-05,INFO,Flight details page clicked
+2024-08-05,INFO,Flight details page loaded successfully
+2024-08-05,INFO,Transit duration extracted
+2024-08-05,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-05,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-05,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-05,INFO,URL opened successfully
+2024-08-05,INFO,Accepted cookies successfully
+2024-08-05,INFO,Flight details page clicked
+2024-08-05,INFO,Flight details page loaded successfully
+2024-08-05,INFO,Transit duration extracted
+2024-08-05,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-05,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-05,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-05,INFO,URL opened successfully
+2024-08-05,INFO,Accepted cookies successfully
+2024-08-05,INFO,Flight details page clicked
+2024-08-05,INFO,Flight details page loaded successfully
+2024-08-05,INFO,Transit duration extracted
+2024-08-05,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-05,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-05,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-05,INFO,URL opened successfully
+2024-08-05,INFO,Accepted cookies successfully
+2024-08-05,INFO,Flight details page clicked
+2024-08-05,INFO,Flight details page loaded successfully
+2024-08-05,INFO,Transit duration extracted
+2024-08-05,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-05,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-05,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-06,INFO,URL opened successfully
+2024-08-06,INFO,Accepted cookies successfully
+2024-08-06,INFO,Flight details page clicked
+2024-08-06,INFO,Flight details page loaded successfully
+2024-08-06,INFO,Transit duration extracted
+2024-08-06,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-06,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-06,INFO,URL opened successfully
+2024-08-06,INFO,Accepted cookies successfully
+2024-08-06,INFO,Flight details page clicked
+2024-08-06,INFO,Flight details page loaded successfully
+2024-08-06,INFO,Transit duration extracted
+2024-08-06,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-06,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-06,INFO,URL opened successfully
+2024-08-06,INFO,Accepted cookies successfully
+2024-08-06,INFO,Flight details page clicked
+2024-08-06,INFO,Flight details page loaded successfully
+2024-08-06,INFO,Transit duration extracted
+2024-08-06,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-06,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-06,INFO,URL opened successfully
+2024-08-06,INFO,Accepted cookies successfully
+2024-08-06,INFO,Flight details page clicked
+2024-08-06,INFO,Flight details page loaded successfully
+2024-08-06,INFO,Transit duration extracted
+2024-08-06,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-06,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-06,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-06,INFO,URL opened successfully
+2024-08-06,INFO,Accepted cookies successfully
+2024-08-06,INFO,Flight details page clicked
+2024-08-06,INFO,Flight details page loaded successfully
+2024-08-06,INFO,Transit duration extracted
+2024-08-06,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-06,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-06,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-07,INFO,URL opened successfully
+2024-08-07,INFO,Accepted cookies successfully
+2024-08-07,INFO,Flight details page clicked
+2024-08-07,INFO,Flight details page loaded successfully
+2024-08-07,INFO,Transit duration extracted
+2024-08-07,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-07,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-07,INFO,URL opened successfully
+2024-08-07,INFO,Accepted cookies successfully
+2024-08-07,INFO,Flight details page clicked
+2024-08-07,INFO,Flight details page loaded successfully
+2024-08-07,INFO,Transit duration extracted
+2024-08-07,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-07,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-07,INFO,URL opened successfully
+2024-08-07,INFO,Accepted cookies successfully
+2024-08-07,INFO,Flight details page clicked
+2024-08-07,INFO,Flight details page loaded successfully
+2024-08-07,INFO,Transit duration extracted
+2024-08-07,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-07,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-07,INFO,URL opened successfully
+2024-08-07,INFO,Accepted cookies successfully
+2024-08-07,INFO,Flight details page clicked
+2024-08-07,INFO,Flight details page loaded successfully
+2024-08-07,INFO,Transit duration extracted
+2024-08-07,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-07,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-07,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-07,INFO,URL opened successfully
+2024-08-07,INFO,Accepted cookies successfully
+2024-08-07,INFO,Flight details page clicked
+2024-08-07,INFO,Flight details page loaded successfully
+2024-08-07,INFO,Transit duration extracted
+2024-08-07,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-07,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-07,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-08,INFO,URL opened successfully
+2024-08-08,INFO,Accepted cookies successfully
+2024-08-08,INFO,Flight details page clicked
+2024-08-08,INFO,Flight details page loaded successfully
+2024-08-08,INFO,Transit duration extracted
+2024-08-08,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-08,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-08,INFO,URL opened successfully
+2024-08-08,INFO,Accepted cookies successfully
+2024-08-08,INFO,Flight details page clicked
+2024-08-08,INFO,Flight details page loaded successfully
+2024-08-08,INFO,Transit duration extracted
+2024-08-08,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-08,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-08,INFO,URL opened successfully
+2024-08-08,INFO,Accepted cookies successfully
+2024-08-08,INFO,Flight details page clicked
+2024-08-08,INFO,Flight details page loaded successfully
+2024-08-08,INFO,Transit duration extracted
+2024-08-08,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-08,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-08,INFO,URL opened successfully
+2024-08-08,INFO,Accepted cookies successfully
+2024-08-08,INFO,Flight details page clicked
+2024-08-08,INFO,Flight details page loaded successfully
+2024-08-08,INFO,Transit duration extracted
+2024-08-08,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-08,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-08,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-08,INFO,URL opened successfully
+2024-08-08,INFO,Accepted cookies successfully
+2024-08-08,INFO,Flight details page clicked
+2024-08-08,INFO,Flight details page loaded successfully
+2024-08-08,INFO,Transit duration extracted
+2024-08-08,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-08,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-08,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-09,INFO,URL opened successfully
+2024-08-09,INFO,Accepted cookies successfully
+2024-08-09,INFO,Flight details page clicked
+2024-08-09,INFO,Flight details page loaded successfully
+2024-08-09,INFO,Transit duration extracted
+2024-08-09,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-09,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-09,INFO,URL opened successfully
+2024-08-09,INFO,Accepted cookies successfully
+2024-08-09,INFO,Flight details page clicked
+2024-08-09,INFO,Flight details page loaded successfully
+2024-08-09,INFO,Transit duration extracted
+2024-08-09,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-09,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-09,INFO,URL opened successfully
+2024-08-09,INFO,Accepted cookies successfully
+2024-08-09,INFO,Flight details page clicked
+2024-08-09,INFO,Flight details page loaded successfully
+2024-08-09,INFO,Transit duration extracted
+2024-08-09,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-09,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-09,INFO,URL opened successfully
+2024-08-09,INFO,Accepted cookies successfully
+2024-08-09,INFO,Flight details page clicked
+2024-08-09,INFO,Flight details page loaded successfully
+2024-08-09,INFO,Transit duration extracted
+2024-08-09,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-09,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-09,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-09,INFO,URL opened successfully
+2024-08-09,INFO,Accepted cookies successfully
+2024-08-09,INFO,Flight details page clicked
+2024-08-09,INFO,Flight details page loaded successfully
+2024-08-09,INFO,Transit duration extracted
+2024-08-09,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-09,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-09,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-10,INFO,URL opened successfully
+2024-08-10,INFO,Accepted cookies successfully
+2024-08-10,INFO,Flight details page clicked
+2024-08-10,INFO,Flight details page loaded successfully
+2024-08-10,INFO,Transit duration extracted
+2024-08-10,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-10,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-10,INFO,URL opened successfully
+2024-08-10,INFO,Accepted cookies successfully
+2024-08-10,INFO,Flight details page clicked
+2024-08-10,INFO,Flight details page loaded successfully
+2024-08-10,INFO,Transit duration extracted
+2024-08-10,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-10,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-10,INFO,URL opened successfully
+2024-08-10,INFO,Accepted cookies successfully
+2024-08-10,INFO,Flight details page clicked
+2024-08-10,INFO,Flight details page loaded successfully
+2024-08-10,INFO,Transit duration extracted
+2024-08-10,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-10,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-10,INFO,URL opened successfully
+2024-08-10,INFO,Accepted cookies successfully
+2024-08-10,INFO,Flight details page clicked
+2024-08-10,INFO,Flight details page loaded successfully
+2024-08-10,INFO,Transit duration extracted
+2024-08-10,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-10,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-10,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-10,INFO,URL opened successfully
+2024-08-10,INFO,Accepted cookies successfully
+2024-08-10,INFO,Flight details page clicked
+2024-08-10,INFO,Flight details page loaded successfully
+2024-08-10,INFO,Transit duration extracted
+2024-08-10,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-10,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-10,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-11,INFO,URL opened successfully
+2024-08-11,INFO,Accepted cookies successfully
+2024-08-11,INFO,Flight details page clicked
+2024-08-11,INFO,Flight details page loaded successfully
+2024-08-11,INFO,Transit duration extracted
+2024-08-11,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-11,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-11,INFO,URL opened successfully
+2024-08-11,INFO,Accepted cookies successfully
+2024-08-11,INFO,Flight details page clicked
+2024-08-11,INFO,Flight details page loaded successfully
+2024-08-11,INFO,Transit duration extracted
+2024-08-11,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-11,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-11,INFO,URL opened successfully
+2024-08-11,INFO,Accepted cookies successfully
+2024-08-11,INFO,Flight details page clicked
+2024-08-11,INFO,Flight details page loaded successfully
+2024-08-11,INFO,Transit duration extracted
+2024-08-11,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-11,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-11,INFO,URL opened successfully
+2024-08-11,INFO,Accepted cookies successfully
+2024-08-11,INFO,Flight details page clicked
+2024-08-11,INFO,Flight details page loaded successfully
+2024-08-11,INFO,Transit duration extracted
+2024-08-11,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-11,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-11,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-11,INFO,URL opened successfully
+2024-08-11,INFO,Accepted cookies successfully
+2024-08-11,INFO,Flight details page clicked
+2024-08-11,INFO,Flight details page loaded successfully
+2024-08-11,INFO,Transit duration extracted
+2024-08-11,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-11,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-11,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-12,INFO,URL opened successfully
+2024-08-12,INFO,Accepted cookies successfully
+2024-08-12,INFO,Flight details page clicked
+2024-08-12,INFO,Flight details page loaded successfully
+2024-08-12,INFO,Transit duration extracted
+2024-08-12,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-12,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-12,INFO,URL opened successfully
+2024-08-12,INFO,Accepted cookies successfully
+2024-08-12,INFO,Flight details page clicked
+2024-08-12,INFO,Flight details page loaded successfully
+2024-08-12,INFO,Transit duration extracted
+2024-08-12,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-12,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-12,INFO,URL opened successfully
+2024-08-12,INFO,Accepted cookies successfully
+2024-08-12,INFO,Flight details page clicked
+2024-08-12,INFO,Flight details page loaded successfully
+2024-08-12,INFO,Transit duration extracted
+2024-08-12,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-12,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-12,INFO,URL opened successfully
+2024-08-12,INFO,Accepted cookies successfully
+2024-08-12,INFO,Flight details page clicked
+2024-08-12,INFO,Flight details page loaded successfully
+2024-08-12,INFO,Transit duration extracted
+2024-08-12,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-12,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-12,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-12,INFO,URL opened successfully
+2024-08-12,INFO,Accepted cookies successfully
+2024-08-12,INFO,Flight details page clicked
+2024-08-12,INFO,Flight details page loaded successfully
+2024-08-12,INFO,Transit duration extracted
+2024-08-12,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-12,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-12,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-13,INFO,URL opened successfully
+2024-08-13,INFO,Accepted cookies successfully
+2024-08-13,INFO,Flight details page clicked
+2024-08-13,INFO,Flight details page loaded successfully
+2024-08-13,INFO,Transit duration extracted
+2024-08-13,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-13,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-13,INFO,URL opened successfully
+2024-08-13,INFO,Accepted cookies successfully
+2024-08-13,INFO,Flight details page clicked
+2024-08-13,INFO,Flight details page loaded successfully
+2024-08-13,INFO,Transit duration extracted
+2024-08-13,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-13,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-13,INFO,URL opened successfully
+2024-08-13,INFO,Accepted cookies successfully
+2024-08-13,INFO,Flight details page clicked
+2024-08-13,INFO,Flight details page loaded successfully
+2024-08-13,INFO,Transit duration extracted
+2024-08-13,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-13,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-13,INFO,URL opened successfully
+2024-08-13,INFO,Accepted cookies successfully
+2024-08-13,INFO,Flight details page clicked
+2024-08-13,INFO,Flight details page loaded successfully
+2024-08-13,INFO,Transit duration extracted
+2024-08-13,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-13,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-13,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-13,INFO,URL opened successfully
+2024-08-13,INFO,Accepted cookies successfully
+2024-08-13,INFO,Flight details page clicked
+2024-08-13,INFO,Flight details page loaded successfully
+2024-08-13,INFO,Transit duration extracted
+2024-08-13,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-13,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-13,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-14,INFO,URL opened successfully
+2024-08-14,INFO,Accepted cookies successfully
+2024-08-14,INFO,Flight details page clicked
+2024-08-14,INFO,Flight details page loaded successfully
+2024-08-14,INFO,Transit duration extracted
+2024-08-14,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-14,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-14,INFO,URL opened successfully
+2024-08-14,INFO,Accepted cookies successfully
+2024-08-14,INFO,Flight details page clicked
+2024-08-14,INFO,Flight details page loaded successfully
+2024-08-14,INFO,Transit duration extracted
+2024-08-14,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-14,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-14,INFO,URL opened successfully
+2024-08-14,INFO,Accepted cookies successfully
+2024-08-14,INFO,Flight details page clicked
+2024-08-14,INFO,Flight details page loaded successfully
+2024-08-14,INFO,Transit duration extracted
+2024-08-14,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-14,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-14,INFO,URL opened successfully
+2024-08-14,INFO,Accepted cookies successfully
+2024-08-14,INFO,Flight details page clicked
+2024-08-14,INFO,Flight details page loaded successfully
+2024-08-14,INFO,Transit duration extracted
+2024-08-14,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-14,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-14,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-14,INFO,URL opened successfully
+2024-08-14,INFO,Accepted cookies successfully
+2024-08-14,INFO,Flight details page clicked
+2024-08-14,INFO,Flight details page loaded successfully
+2024-08-14,INFO,Transit duration extracted
+2024-08-14,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-14,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-14,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-15,INFO,URL opened successfully
+2024-08-15,INFO,Accepted cookies successfully
+2024-08-15,INFO,Flight details page clicked
+2024-08-15,INFO,Flight details page loaded successfully
+2024-08-15,INFO,Transit duration extracted
+2024-08-15,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-15,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-15,INFO,URL opened successfully
+2024-08-15,INFO,Accepted cookies successfully
+2024-08-15,INFO,Flight details page clicked
+2024-08-15,INFO,Flight details page loaded successfully
+2024-08-15,INFO,Transit duration extracted
+2024-08-15,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-15,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-15,INFO,URL opened successfully
+2024-08-15,INFO,Accepted cookies successfully
+2024-08-15,INFO,Flight details page clicked
+2024-08-15,INFO,Flight details page loaded successfully
+2024-08-15,INFO,Transit duration extracted
+2024-08-15,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-15,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-15,INFO,URL opened successfully
+2024-08-15,INFO,Accepted cookies successfully
+2024-08-15,INFO,Flight details page clicked
+2024-08-15,INFO,Flight details page loaded successfully
+2024-08-15,INFO,Transit duration extracted
+2024-08-15,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-15,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-15,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-15,INFO,URL opened successfully
+2024-08-15,INFO,Accepted cookies successfully
+2024-08-15,INFO,Flight details page clicked
+2024-08-15,INFO,Flight details page loaded successfully
+2024-08-15,INFO,Transit duration extracted
+2024-08-15,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-15,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-15,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-16,INFO,URL opened successfully
+2024-08-16,INFO,Accepted cookies successfully
+2024-08-16,INFO,Flight details page clicked
+2024-08-16,INFO,Flight details page loaded successfully
+2024-08-16,INFO,Transit duration extracted
+2024-08-16,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-16,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-16,INFO,URL opened successfully
+2024-08-16,INFO,Accepted cookies successfully
+2024-08-16,INFO,Flight details page clicked
+2024-08-16,INFO,Flight details page loaded successfully
+2024-08-16,INFO,Transit duration extracted
+2024-08-16,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-16,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-16,INFO,URL opened successfully
+2024-08-16,INFO,Accepted cookies successfully
+2024-08-16,INFO,Flight details page clicked
+2024-08-16,INFO,Flight details page loaded successfully
+2024-08-16,INFO,Transit duration extracted
+2024-08-16,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-16,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-16,INFO,URL opened successfully
+2024-08-16,INFO,Accepted cookies successfully
+2024-08-16,INFO,Flight details page clicked
+2024-08-16,INFO,Flight details page loaded successfully
+2024-08-16,INFO,Transit duration extracted
+2024-08-16,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-16,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-16,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-16,INFO,URL opened successfully
+2024-08-16,INFO,Accepted cookies successfully
+2024-08-16,INFO,Flight details page clicked
+2024-08-16,INFO,Flight details page loaded successfully
+2024-08-16,INFO,Transit duration extracted
+2024-08-16,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-16,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-16,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-17,INFO,URL opened successfully
+2024-08-17,INFO,Accepted cookies successfully
+2024-08-17,INFO,Flight details page clicked
+2024-08-17,INFO,Flight details page loaded successfully
+2024-08-17,INFO,Transit duration extracted
+2024-08-17,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-17,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-17,INFO,URL opened successfully
+2024-08-17,INFO,Accepted cookies successfully
+2024-08-17,INFO,Flight details page clicked
+2024-08-17,INFO,Flight details page loaded successfully
+2024-08-17,INFO,Transit duration extracted
+2024-08-17,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-17,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-17,INFO,URL opened successfully
+2024-08-17,INFO,Accepted cookies successfully
+2024-08-17,INFO,Flight details page clicked
+2024-08-17,INFO,Flight details page loaded successfully
+2024-08-17,INFO,Transit duration extracted
+2024-08-17,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-17,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-17,INFO,URL opened successfully
+2024-08-17,INFO,Accepted cookies successfully
+2024-08-17,INFO,Flight details page clicked
+2024-08-17,INFO,Flight details page loaded successfully
+2024-08-17,INFO,Transit duration extracted
+2024-08-17,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-17,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-17,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-17,INFO,URL opened successfully
+2024-08-17,INFO,Accepted cookies successfully
+2024-08-17,INFO,Flight details page clicked
+2024-08-17,INFO,Flight details page loaded successfully
+2024-08-17,INFO,Transit duration extracted
+2024-08-17,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-17,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-17,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-18,INFO,URL opened successfully
+2024-08-18,INFO,Accepted cookies successfully
+2024-08-18,INFO,Flight details page clicked
+2024-08-18,INFO,Flight details page loaded successfully
+2024-08-18,INFO,Transit duration extracted
+2024-08-18,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-18,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-18,INFO,URL opened successfully
+2024-08-18,INFO,Accepted cookies successfully
+2024-08-18,INFO,Flight details page clicked
+2024-08-18,INFO,Flight details page loaded successfully
+2024-08-18,INFO,Transit duration extracted
+2024-08-18,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-18,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-18,INFO,URL opened successfully
+2024-08-18,INFO,Accepted cookies successfully
+2024-08-18,INFO,Flight details page clicked
+2024-08-18,INFO,Flight details page loaded successfully
+2024-08-18,INFO,Transit duration extracted
+2024-08-18,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-18,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-18,INFO,URL opened successfully
+2024-08-18,INFO,Accepted cookies successfully
+2024-08-18,INFO,Flight details page clicked
+2024-08-18,INFO,Flight details page loaded successfully
+2024-08-18,INFO,Transit duration extracted
+2024-08-18,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-18,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-18,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-18,INFO,URL opened successfully
+2024-08-18,INFO,Accepted cookies successfully
+2024-08-18,INFO,Flight details page clicked
+2024-08-18,INFO,Flight details page loaded successfully
+2024-08-18,INFO,Transit duration extracted
+2024-08-18,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-18,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-18,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-19,INFO,URL opened successfully
+2024-08-19,INFO,Accepted cookies successfully
+2024-08-19,INFO,Flight details page clicked
+2024-08-19,INFO,Flight details page loaded successfully
+2024-08-19,INFO,Transit duration extracted
+2024-08-19,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-19,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-19,INFO,URL opened successfully
+2024-08-19,INFO,Accepted cookies successfully
+2024-08-19,INFO,Flight details page clicked
+2024-08-19,INFO,Flight details page loaded successfully
+2024-08-19,INFO,Transit duration extracted
+2024-08-19,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-19,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-19,INFO,URL opened successfully
+2024-08-19,INFO,Accepted cookies successfully
+2024-08-19,INFO,Flight details page clicked
+2024-08-19,INFO,Flight details page loaded successfully
+2024-08-19,INFO,Transit duration extracted
+2024-08-19,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-19,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-19,INFO,URL opened successfully
+2024-08-19,INFO,Accepted cookies successfully
+2024-08-19,INFO,Flight details page clicked
+2024-08-19,INFO,Flight details page loaded successfully
+2024-08-19,INFO,Transit duration extracted
+2024-08-19,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-19,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-19,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-19,INFO,URL opened successfully
+2024-08-19,INFO,Accepted cookies successfully
+2024-08-19,INFO,Flight details page clicked
+2024-08-19,INFO,Flight details page loaded successfully
+2024-08-19,INFO,Transit duration extracted
+2024-08-19,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-19,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-19,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-20,INFO,URL opened successfully
+2024-08-20,INFO,Accepted cookies successfully
+2024-08-20,INFO,Flight details page clicked
+2024-08-20,INFO,Flight details page loaded successfully
+2024-08-20,INFO,Transit duration extracted
+2024-08-20,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-20,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-20,INFO,URL opened successfully
+2024-08-20,INFO,Accepted cookies successfully
+2024-08-20,INFO,Flight details page clicked
+2024-08-20,INFO,Flight details page loaded successfully
+2024-08-20,INFO,Transit duration extracted
+2024-08-20,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-20,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-20,INFO,URL opened successfully
+2024-08-20,INFO,Accepted cookies successfully
+2024-08-20,INFO,Flight details page clicked
+2024-08-20,INFO,Flight details page loaded successfully
+2024-08-20,INFO,Transit duration extracted
+2024-08-20,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-20,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-20,INFO,URL opened successfully
+2024-08-20,INFO,Accepted cookies successfully
+2024-08-20,INFO,Flight details page clicked
+2024-08-20,INFO,Flight details page loaded successfully
+2024-08-20,INFO,Transit duration extracted
+2024-08-20,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-20,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-20,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-20,INFO,URL opened successfully
+2024-08-20,INFO,Accepted cookies successfully
+2024-08-20,INFO,Flight details page clicked
+2024-08-20,INFO,Flight details page loaded successfully
+2024-08-20,INFO,Transit duration extracted
+2024-08-20,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-20,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-20,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-21,INFO,URL opened successfully
+2024-08-21,INFO,Accepted cookies successfully
+2024-08-21,INFO,Flight details page clicked
+2024-08-21,INFO,Flight details page loaded successfully
+2024-08-21,INFO,Transit duration extracted
+2024-08-21,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-21,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-21,INFO,URL opened successfully
+2024-08-21,INFO,Accepted cookies successfully
+2024-08-21,INFO,Flight details page clicked
+2024-08-21,INFO,Flight details page loaded successfully
+2024-08-21,INFO,Transit duration extracted
+2024-08-21,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-21,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-21,INFO,URL opened successfully
+2024-08-21,INFO,Accepted cookies successfully
+2024-08-21,INFO,Flight details page clicked
+2024-08-21,INFO,Flight details page loaded successfully
+2024-08-21,INFO,Transit duration extracted
+2024-08-21,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-21,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-21,INFO,URL opened successfully
+2024-08-21,INFO,Accepted cookies successfully
+2024-08-21,INFO,Flight details page clicked
+2024-08-21,INFO,Flight details page loaded successfully
+2024-08-21,INFO,Transit duration extracted
+2024-08-21,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-21,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-21,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-21,INFO,URL opened successfully
+2024-08-21,INFO,Accepted cookies successfully
+2024-08-21,INFO,Flight details page clicked
+2024-08-21,INFO,Flight details page loaded successfully
+2024-08-21,INFO,Transit duration extracted
+2024-08-21,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-21,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-21,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-22,INFO,URL opened successfully
+2024-08-22,INFO,Accepted cookies successfully
+2024-08-22,INFO,Flight details page clicked
+2024-08-22,INFO,Flight details page loaded successfully
+2024-08-22,INFO,Transit duration extracted
+2024-08-22,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-22,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-22,INFO,URL opened successfully
+2024-08-22,INFO,Accepted cookies successfully
+2024-08-22,INFO,Flight details page clicked
+2024-08-22,INFO,Flight details page loaded successfully
+2024-08-22,INFO,Transit duration extracted
+2024-08-22,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-22,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-22,INFO,URL opened successfully
+2024-08-22,INFO,Accepted cookies successfully
+2024-08-22,INFO,Flight details page clicked
+2024-08-22,INFO,Flight details page loaded successfully
+2024-08-22,INFO,Transit duration extracted
+2024-08-22,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-22,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-22,INFO,URL opened successfully
+2024-08-22,INFO,Accepted cookies successfully
+2024-08-22,INFO,Flight details page clicked
+2024-08-22,INFO,Flight details page loaded successfully
+2024-08-22,INFO,Transit duration extracted
+2024-08-22,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-22,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-22,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-22,INFO,URL opened successfully
+2024-08-22,INFO,Accepted cookies successfully
+2024-08-22,INFO,Flight details page clicked
+2024-08-22,INFO,Flight details page loaded successfully
+2024-08-22,INFO,Transit duration extracted
+2024-08-22,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-22,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-22,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-23,INFO,URL opened successfully
+2024-08-23,INFO,Accepted cookies successfully
+2024-08-23,INFO,Flight details page clicked
+2024-08-23,INFO,Flight details page loaded successfully
+2024-08-23,INFO,Transit duration extracted
+2024-08-23,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-23,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-23,INFO,URL opened successfully
+2024-08-23,INFO,Accepted cookies successfully
+2024-08-23,INFO,Flight details page clicked
+2024-08-23,INFO,Flight details page loaded successfully
+2024-08-23,INFO,Transit duration extracted
+2024-08-23,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-23,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-23,INFO,URL opened successfully
+2024-08-23,INFO,Accepted cookies successfully
+2024-08-23,INFO,Flight details page clicked
+2024-08-23,INFO,Flight details page loaded successfully
+2024-08-23,INFO,Transit duration extracted
+2024-08-23,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-23,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-23,INFO,URL opened successfully
+2024-08-23,INFO,Accepted cookies successfully
+2024-08-23,INFO,Flight details page clicked
+2024-08-23,INFO,Flight details page loaded successfully
+2024-08-23,INFO,Transit duration extracted
+2024-08-23,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-23,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-23,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-23,INFO,URL opened successfully
+2024-08-23,INFO,Accepted cookies successfully
+2024-08-23,INFO,Flight details page clicked
+2024-08-23,INFO,Flight details page loaded successfully
+2024-08-23,INFO,Transit duration extracted
+2024-08-23,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-23,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-23,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-24,INFO,URL opened successfully
+2024-08-24,INFO,Accepted cookies successfully
+2024-08-24,INFO,Flight details page clicked
+2024-08-24,INFO,Flight details page loaded successfully
+2024-08-24,INFO,Transit duration extracted
+2024-08-24,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-24,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-24,INFO,URL opened successfully
+2024-08-24,INFO,Accepted cookies successfully
+2024-08-24,INFO,Flight details page clicked
+2024-08-24,INFO,Flight details page loaded successfully
+2024-08-24,INFO,Transit duration extracted
+2024-08-24,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-24,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-24,INFO,URL opened successfully
+2024-08-24,INFO,Accepted cookies successfully
+2024-08-24,INFO,Flight details page clicked
+2024-08-24,INFO,Flight details page loaded successfully
+2024-08-24,INFO,Transit duration extracted
+2024-08-24,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-24,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-24,INFO,URL opened successfully
+2024-08-24,INFO,Accepted cookies successfully
+2024-08-24,INFO,Flight details page clicked
+2024-08-24,INFO,Flight details page loaded successfully
+2024-08-24,INFO,Transit duration extracted
+2024-08-24,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-24,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-24,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-24,INFO,URL opened successfully
+2024-08-24,INFO,Accepted cookies successfully
+2024-08-24,INFO,Flight details page clicked
+2024-08-24,INFO,Flight details page loaded successfully
+2024-08-24,INFO,Transit duration extracted
+2024-08-24,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-24,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-24,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-25,INFO,URL opened successfully
+2024-08-25,INFO,Accepted cookies successfully
+2024-08-25,INFO,Flight details page clicked
+2024-08-25,INFO,Flight details page loaded successfully
+2024-08-25,INFO,Transit duration extracted
+2024-08-25,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-25,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-25,INFO,URL opened successfully
+2024-08-25,INFO,Accepted cookies successfully
+2024-08-25,INFO,Flight details page clicked
+2024-08-25,INFO,Flight details page loaded successfully
+2024-08-25,INFO,Transit duration extracted
+2024-08-25,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-25,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-25,INFO,URL opened successfully
+2024-08-25,INFO,Accepted cookies successfully
+2024-08-25,INFO,Flight details page clicked
+2024-08-25,INFO,Flight details page loaded successfully
+2024-08-25,INFO,Transit duration extracted
+2024-08-25,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-25,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-25,INFO,URL opened successfully
+2024-08-25,INFO,Accepted cookies successfully
+2024-08-25,INFO,Flight details page clicked
+2024-08-25,INFO,Flight details page loaded successfully
+2024-08-25,INFO,Transit duration extracted
+2024-08-25,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-25,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-25,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-25,INFO,URL opened successfully
+2024-08-25,INFO,Accepted cookies successfully
+2024-08-25,INFO,Flight details page clicked
+2024-08-25,INFO,Flight details page loaded successfully
+2024-08-25,INFO,Transit duration extracted
+2024-08-25,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-25,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-25,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-26,INFO,URL opened successfully
+2024-08-26,INFO,Accepted cookies successfully
+2024-08-26,INFO,Flight details page clicked
+2024-08-26,INFO,Flight details page loaded successfully
+2024-08-26,INFO,Transit duration extracted
+2024-08-26,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-26,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-26,INFO,URL opened successfully
+2024-08-26,INFO,Accepted cookies successfully
+2024-08-26,INFO,Flight details page clicked
+2024-08-26,INFO,Flight details page loaded successfully
+2024-08-26,INFO,Transit duration extracted
+2024-08-26,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-26,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-26,INFO,URL opened successfully
+2024-08-26,INFO,Accepted cookies successfully
+2024-08-26,INFO,Flight details page clicked
+2024-08-26,INFO,Flight details page loaded successfully
+2024-08-26,INFO,Transit duration extracted
+2024-08-26,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-26,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-26,INFO,URL opened successfully
+2024-08-26,INFO,Accepted cookies successfully
+2024-08-26,INFO,Flight details page clicked
+2024-08-26,INFO,Flight details page loaded successfully
+2024-08-26,INFO,Transit duration extracted
+2024-08-26,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-26,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-26,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-26,INFO,URL opened successfully
+2024-08-26,INFO,Accepted cookies successfully
+2024-08-26,INFO,Flight details page clicked
+2024-08-26,INFO,Flight details page loaded successfully
+2024-08-26,INFO,Transit duration extracted
+2024-08-26,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-26,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-26,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-27,INFO,URL opened successfully
+2024-08-27,INFO,Accepted cookies successfully
+2024-08-27,INFO,Flight details page clicked
+2024-08-27,INFO,Flight details page loaded successfully
+2024-08-27,INFO,Transit duration extracted
+2024-08-27,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-27,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-27,INFO,URL opened successfully
+2024-08-27,INFO,Accepted cookies successfully
+2024-08-27,INFO,Flight details page clicked
+2024-08-27,INFO,Flight details page loaded successfully
+2024-08-27,INFO,Transit duration extracted
+2024-08-27,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-27,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-27,INFO,URL opened successfully
+2024-08-27,INFO,Accepted cookies successfully
+2024-08-27,INFO,Flight details page clicked
+2024-08-27,INFO,Flight details page loaded successfully
+2024-08-27,INFO,Transit duration extracted
+2024-08-27,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-27,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-27,INFO,URL opened successfully
+2024-08-27,INFO,Accepted cookies successfully
+2024-08-27,INFO,Flight details page clicked
+2024-08-27,INFO,Flight details page loaded successfully
+2024-08-27,INFO,Transit duration extracted
+2024-08-27,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-27,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-27,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-27,INFO,URL opened successfully
+2024-08-27,INFO,Accepted cookies successfully
+2024-08-27,INFO,Flight details page clicked
+2024-08-27,INFO,Flight details page loaded successfully
+2024-08-27,INFO,Transit duration extracted
+2024-08-27,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-27,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-27,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-28,INFO,URL opened successfully
+2024-08-28,INFO,Accepted cookies successfully
+2024-08-28,INFO,Flight details page clicked
+2024-08-28,INFO,Flight details page loaded successfully
+2024-08-28,INFO,Transit duration extracted
+2024-08-28,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-28,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-28,INFO,URL opened successfully
+2024-08-28,INFO,Accepted cookies successfully
+2024-08-28,INFO,Flight details page clicked
+2024-08-28,INFO,Flight details page loaded successfully
+2024-08-28,INFO,Transit duration extracted
+2024-08-28,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-28,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-28,INFO,URL opened successfully
+2024-08-28,INFO,Accepted cookies successfully
+2024-08-28,INFO,Flight details page clicked
+2024-08-28,INFO,Flight details page loaded successfully
+2024-08-28,INFO,Transit duration extracted
+2024-08-28,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-28,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-28,INFO,URL opened successfully
+2024-08-28,INFO,Accepted cookies successfully
+2024-08-28,INFO,Flight details page clicked
+2024-08-28,INFO,Flight details page loaded successfully
+2024-08-28,INFO,Transit duration extracted
+2024-08-28,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-28,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-28,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-28,INFO,URL opened successfully
+2024-08-28,INFO,Accepted cookies successfully
+2024-08-28,INFO,Flight details page clicked
+2024-08-28,INFO,Flight details page loaded successfully
+2024-08-28,INFO,Transit duration extracted
+2024-08-28,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-28,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-28,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-29,INFO,URL opened successfully
+2024-08-29,INFO,Accepted cookies successfully
+2024-08-29,INFO,Flight details page clicked
+2024-08-29,INFO,Flight details page loaded successfully
+2024-08-29,INFO,Transit duration extracted
+2024-08-29,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-29,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-29,INFO,URL opened successfully
+2024-08-29,INFO,Accepted cookies successfully
+2024-08-29,INFO,Flight details page clicked
+2024-08-29,INFO,Flight details page loaded successfully
+2024-08-29,INFO,Transit duration extracted
+2024-08-29,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-29,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-29,INFO,URL opened successfully
+2024-08-29,INFO,Accepted cookies successfully
+2024-08-29,INFO,Flight details page clicked
+2024-08-29,INFO,Flight details page loaded successfully
+2024-08-29,INFO,Transit duration extracted
+2024-08-29,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-29,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-29,INFO,URL opened successfully
+2024-08-29,INFO,Accepted cookies successfully
+2024-08-29,INFO,Flight details page clicked
+2024-08-29,INFO,Flight details page loaded successfully
+2024-08-29,INFO,Transit duration extracted
+2024-08-29,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-29,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-29,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-29,INFO,URL opened successfully
+2024-08-29,INFO,Accepted cookies successfully
+2024-08-29,INFO,Flight details page clicked
+2024-08-29,INFO,Flight details page loaded successfully
+2024-08-29,INFO,Transit duration extracted
+2024-08-29,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-29,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-29,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Selenium WebDriver for QatarAirways started (FRA - BER)
+2024-08-30,INFO,URL opened successfully
+2024-08-30,INFO,Accepted cookies successfully
+2024-08-30,INFO,Flight details page clicked
+2024-08-30,INFO,Flight details page loaded successfully
+2024-08-30,INFO,Transit duration extracted
+2024-08-30,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-30,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-30,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Selenium WebDriver for QatarAirways started (FRA - HAM)
+2024-08-30,INFO,URL opened successfully
+2024-08-30,INFO,Accepted cookies successfully
+2024-08-30,INFO,Flight details page clicked
+2024-08-30,INFO,Flight details page loaded successfully
+2024-08-30,INFO,Transit duration extracted
+2024-08-30,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-30,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-30,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Selenium WebDriver for QatarAirways started (FRA - LHR)
+2024-08-30,INFO,URL opened successfully
+2024-08-30,INFO,Accepted cookies successfully
+2024-08-30,INFO,Flight details page clicked
+2024-08-30,INFO,Flight details page loaded successfully
+2024-08-30,INFO,Transit duration extracted
+2024-08-30,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-30,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-30,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Selenium WebDriver for QatarAirways started (FRA - IST)
+2024-08-30,INFO,URL opened successfully
+2024-08-30,INFO,Accepted cookies successfully
+2024-08-30,INFO,Flight details page clicked
+2024-08-30,INFO,Flight details page loaded successfully
+2024-08-30,INFO,Transit duration extracted
+2024-08-30,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-30,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-30,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Flight data URL constructed successfully
+2024-08-30,INFO,Selenium WebDriver for QatarAirways started (FRA - DXB)
+2024-08-30,INFO,URL opened successfully
+2024-08-30,INFO,Accepted cookies successfully
+2024-08-30,INFO,Flight details page clicked
+2024-08-30,INFO,Flight details page loaded successfully
+2024-08-30,INFO,Transit duration extracted
+2024-08-30,INFO,Results saved to results/results_QatarAirways.csv
+2024-08-30,INFO,Selenium WebDriver for QatarAirways stopped
+2024-08-30,INFO,Flight data URL constructed successfully
