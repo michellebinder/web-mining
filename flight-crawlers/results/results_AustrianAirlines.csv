@@ -1,0 +1,244 @@
+airline_name,crawling_date,departure_airport,destination_airport,date,travel_duration,departure_time,arrival_time,transit,transit_duration,price
+AustrianAirlines,05-08-2024,Frankfurt,Berlin,06-08-2024,01:10,15:45,16:55,False,00:00,333.6
+AustrianAirlines,05-08-2024,Frankfurt,Hamburg,06-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,05-08-2024,Frankfurt,München,06-08-2024,00:55,15:15,16:10,False,00:00,369.0
+AustrianAirlines,05-08-2024,Frankfurt,London,06-08-2024,01:25,06:50,07:15,False,00:00,235.71
+AustrianAirlines,05-08-2024,Frankfurt,Palma de Mallorca,06-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,05-08-2024,Frankfurt,Istanbul,06-08-2024,03:00,13:00,17:00,False,00:00,446.65
+AustrianAirlines,05-08-2024,Frankfurt,Dubai,06-08-2024,22:15,20:50,21:05,True,14:45,952.23
+AustrianAirlines,05-08-2024,Frankfurt,New York,06-08-2024,13:30,09:15,16:45,True,02:20,1617.87
+AustrianAirlines,05-08-2024,Frankfurt,Shanghai,06-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,06-08-2024,Frankfurt,Berlin,07-08-2024,01:10,11:45,12:55,False,00:00,333.6
+AustrianAirlines,06-08-2024,Frankfurt,Hamburg,07-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,06-08-2024,Frankfurt,München,07-08-2024,00:55,13:15,14:10,False,00:00,369.0
+AustrianAirlines,06-08-2024,Frankfurt,London,07-08-2024,01:25,16:00,16:25,False,00:00,235.68
+AustrianAirlines,06-08-2024,Frankfurt,Palma de Mallorca,07-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,06-08-2024,Frankfurt,Istanbul,07-08-2024,03:00,09:05,13:05,False,00:00,407.65
+AustrianAirlines,06-08-2024,Frankfurt,Dubai,07-08-2024,22:05,21:00,21:05,True,13:35,956.33
+AustrianAirlines,06-08-2024,Frankfurt,New York,07-08-2024,10:55,07:50,12:45,True,01:15,1601.55
+AustrianAirlines,06-08-2024,Frankfurt,Shanghai,07-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,07-08-2024,Frankfurt,Berlin,08-08-2024,01:10,11:45,12:55,False,00:00,333.6
+AustrianAirlines,07-08-2024,Frankfurt,Hamburg,08-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,07-08-2024,Frankfurt,München,08-08-2024,00:55,13:15,14:10,False,00:00,369.0
+AustrianAirlines,07-08-2024,Frankfurt,London,08-08-2024,01:25,16:00,16:25,False,00:00,235.57
+AustrianAirlines,07-08-2024,Frankfurt,Palma de Mallorca,08-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,07-08-2024,Frankfurt,Istanbul,08-08-2024,03:00,17:20,21:20,False,00:00,430.65
+AustrianAirlines,07-08-2024,Frankfurt,Dubai,08-08-2024,11:15,07:50,21:05,True,03:55,1005.22
+AustrianAirlines,07-08-2024,Frankfurt,New York,08-08-2024,11:30,07:50,13:20,True,01:25,1601.51
+AustrianAirlines,07-08-2024,Frankfurt,Shanghai,08-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,08-08-2024,Frankfurt,Berlin,09-08-2024,01:10,21:15,22:25,False,00:00,199.6
+AustrianAirlines,08-08-2024,Frankfurt,Hamburg,09-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,08-08-2024,Frankfurt,München,09-08-2024,00:55,10:15,11:10,False,00:00,285.0
+AustrianAirlines,08-08-2024,Frankfurt,London,09-08-2024,01:25,06:50,07:15,False,00:00,235.52
+AustrianAirlines,08-08-2024,Frankfurt,Palma de Mallorca,09-08-2024,02:10,09:05,11:15,False,00:00,315.98
+AustrianAirlines,08-08-2024,Frankfurt,Istanbul,09-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,08-08-2024,Frankfurt,Dubai,09-08-2024,22:05,21:00,21:05,True,13:40,966.48
+AustrianAirlines,08-08-2024,Frankfurt,New York,09-08-2024,10:55,07:50,12:45,True,01:15,1601.54
+AustrianAirlines,08-08-2024,Frankfurt,Shanghai,09-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,09-08-2024,Frankfurt,Berlin,10-08-2024,01:10,06:45,07:55,False,00:00,177.6
+AustrianAirlines,09-08-2024,Frankfurt,Hamburg,10-08-2024,01:05,06:30,07:35,False,00:00,241.08
+AustrianAirlines,09-08-2024,Frankfurt,München,10-08-2024,00:55,07:15,08:10,False,00:00,189.0
+AustrianAirlines,09-08-2024,Frankfurt,London,10-08-2024,01:40,21:30,22:10,False,00:00,276.65
+AustrianAirlines,09-08-2024,Frankfurt,Palma de Mallorca,10-08-2024,02:10,04:50,07:00,False,00:00,315.98
+AustrianAirlines,09-08-2024,Frankfurt,Istanbul,10-08-2024,03:00,17:20,21:20,False,00:00,347.65
+AustrianAirlines,09-08-2024,Frankfurt,Dubai,10-08-2024,25:25,17:40,21:05,True,17:10,941.31
+AustrianAirlines,09-08-2024,Frankfurt,New York,10-08-2024,11:10,15:00,20:10,True,01:25,1524.46
+AustrianAirlines,09-08-2024,Frankfurt,Shanghai,10-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,10-08-2024,Frankfurt,Berlin,11-08-2024,01:10,07:45,08:55,False,00:00,237.6
+AustrianAirlines,10-08-2024,Frankfurt,Hamburg,11-08-2024,01:05,06:30,07:35,False,00:00,241.08
+AustrianAirlines,10-08-2024,Frankfurt,München,11-08-2024,00:55,07:15,08:10,False,00:00,189.0
+AustrianAirlines,10-08-2024,Frankfurt,London,11-08-2024,17:05,06:40,17:45,True,05:30,1713.9
+AustrianAirlines,10-08-2024,Frankfurt,Palma de Mallorca,11-08-2024,02:10,04:50,07:00,False,00:00,315.98
+AustrianAirlines,10-08-2024,Frankfurt,Istanbul,11-08-2024,03:00,09:05,13:05,False,00:00,362.65
+AustrianAirlines,10-08-2024,Frankfurt,Dubai,11-08-2024,11:15,07:50,21:05,True,03:55,975.04
+AustrianAirlines,10-08-2024,Frankfurt,New York,11-08-2024,08:30,11:10,13:40,False,00:00,1601.42
+AustrianAirlines,10-08-2024,Frankfurt,Shanghai,11-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,11-08-2024,Frankfurt,Berlin,12-08-2024,01:10,11:45,12:55,False,00:00,333.6
+AustrianAirlines,11-08-2024,Frankfurt,Hamburg,12-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,11-08-2024,Frankfurt,München,12-08-2024,00:55,12:15,13:10,False,00:00,369.0
+AustrianAirlines,11-08-2024,Frankfurt,London,12-08-2024,01:25,18:10,18:35,False,00:00,273.52
+AustrianAirlines,11-08-2024,Frankfurt,Palma de Mallorca,12-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,11-08-2024,Frankfurt,Istanbul,12-08-2024,03:00,09:05,13:05,False,00:00,299.65
+AustrianAirlines,11-08-2024,Frankfurt,Dubai,12-08-2024,11:35,07:30,21:05,True,03:10,933.66
+AustrianAirlines,11-08-2024,Frankfurt,New York,12-08-2024,10:55,07:50,12:45,True,01:15,1601.42
+AustrianAirlines,11-08-2024,Frankfurt,Shanghai,12-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,12-08-2024,Frankfurt,Berlin,13-08-2024,01:10,17:45,18:55,False,00:00,333.6
+AustrianAirlines,12-08-2024,Frankfurt,Hamburg,13-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,12-08-2024,Frankfurt,München,13-08-2024,00:55,13:15,14:10,False,00:00,369.0
+AustrianAirlines,12-08-2024,Frankfurt,London,13-08-2024,01:25,08:15,08:40,False,00:00,235.52
+AustrianAirlines,12-08-2024,Frankfurt,Palma de Mallorca,13-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,12-08-2024,Frankfurt,Istanbul,13-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,12-08-2024,Frankfurt,Dubai,13-08-2024,22:05,21:00,21:05,True,13:35,952.03
+AustrianAirlines,12-08-2024,Frankfurt,New York,13-08-2024,10:55,07:50,12:45,True,01:15,1601.42
+AustrianAirlines,12-08-2024,Frankfurt,Shanghai,13-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,13-08-2024,Frankfurt,Berlin,14-08-2024,01:10,11:45,12:55,False,00:00,333.6
+AustrianAirlines,13-08-2024,Frankfurt,Hamburg,14-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,13-08-2024,Frankfurt,München,14-08-2024,00:55,13:15,14:10,False,00:00,369.0
+AustrianAirlines,13-08-2024,Frankfurt,London,14-08-2024,01:25,08:15,08:40,False,00:00,235.6
+AustrianAirlines,13-08-2024,Frankfurt,Palma de Mallorca,14-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,13-08-2024,Frankfurt,Istanbul,14-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,13-08-2024,Frankfurt,Dubai,14-08-2024,25:25,17:40,21:05,True,14:55,979.11
+AustrianAirlines,13-08-2024,Frankfurt,New York,14-08-2024,10:55,07:50,12:45,True,01:15,1601.39
+AustrianAirlines,13-08-2024,Frankfurt,Shanghai,14-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,14-08-2024,Frankfurt,Berlin,15-08-2024,01:10,21:15,22:25,False,00:00,333.6
+AustrianAirlines,14-08-2024,Frankfurt,Hamburg,15-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,14-08-2024,Frankfurt,München,15-08-2024,00:55,07:15,08:10,False,00:00,141.0
+AustrianAirlines,14-08-2024,Frankfurt,London,15-08-2024,01:25,08:15,08:40,False,00:00,235.6
+AustrianAirlines,14-08-2024,Frankfurt,Palma de Mallorca,15-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,14-08-2024,Frankfurt,Istanbul,15-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,14-08-2024,Frankfurt,Dubai,15-08-2024,11:15,07:50,21:05,True,03:55,911.94
+AustrianAirlines,14-08-2024,Frankfurt,New York,15-08-2024,11:30,07:50,13:20,True,01:25,1601.31
+AustrianAirlines,14-08-2024,Frankfurt,Shanghai,15-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,15-08-2024,Frankfurt,Berlin,16-08-2024,01:10,21:15,22:25,False,00:00,177.6
+AustrianAirlines,15-08-2024,Frankfurt,Hamburg,16-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,15-08-2024,Frankfurt,München,16-08-2024,00:55,07:15,08:10,False,00:00,141.0
+AustrianAirlines,15-08-2024,Frankfurt,London,16-08-2024,01:25,08:15,08:40,False,00:00,235.62
+AustrianAirlines,15-08-2024,Frankfurt,Palma de Mallorca,16-08-2024,02:10,09:05,11:15,False,00:00,315.98
+AustrianAirlines,15-08-2024,Frankfurt,Istanbul,16-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,15-08-2024,Frankfurt,Dubai,16-08-2024,11:15,07:50,21:05,True,03:55,919.91
+AustrianAirlines,15-08-2024,Frankfurt,New York,16-08-2024,10:55,07:50,12:45,True,01:15,1601.19
+AustrianAirlines,15-08-2024,Frankfurt,Shanghai,16-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,16-08-2024,Frankfurt,Berlin,17-08-2024,01:10,06:45,07:55,False,00:00,177.6
+AustrianAirlines,16-08-2024,Frankfurt,Hamburg,17-08-2024,01:05,06:30,07:35,False,00:00,241.08
+AustrianAirlines,16-08-2024,Frankfurt,München,17-08-2024,00:55,07:15,08:10,False,00:00,189.0
+AustrianAirlines,16-08-2024,Frankfurt,London,17-08-2024,01:40,21:30,22:10,False,00:00,276.65
+AustrianAirlines,16-08-2024,Frankfurt,Palma de Mallorca,17-08-2024,02:10,04:50,07:00,False,00:00,315.98
+AustrianAirlines,16-08-2024,Frankfurt,Istanbul,17-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,16-08-2024,Frankfurt,Dubai,17-08-2024,12:25,06:40,21:05,True,05:05,982.85
+AustrianAirlines,16-08-2024,Frankfurt,New York,17-08-2024,11:30,13:15,18:45,True,01:55,1484.87
+AustrianAirlines,16-08-2024,Frankfurt,Shanghai,17-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,17-08-2024,Frankfurt,Berlin,18-08-2024,01:10,07:45,08:55,False,00:00,177.6
+AustrianAirlines,17-08-2024,Frankfurt,Hamburg,18-08-2024,01:05,06:30,07:35,False,00:00,241.08
+AustrianAirlines,17-08-2024,Frankfurt,München,18-08-2024,00:55,07:15,08:10,False,00:00,189.0
+AustrianAirlines,17-08-2024,Frankfurt,London,18-08-2024,01:25,16:50,17:15,False,00:00,339.6
+AustrianAirlines,17-08-2024,Frankfurt,Palma de Mallorca,18-08-2024,02:10,04:50,07:00,False,00:00,315.98
+AustrianAirlines,17-08-2024,Frankfurt,Istanbul,18-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,17-08-2024,Frankfurt,Dubai,18-08-2024,11:15,07:50,21:05,True,03:55,1646.79
+AustrianAirlines,17-08-2024,Frankfurt,New York,18-08-2024,11:25,08:55,14:20,True,01:40,1446.41
+AustrianAirlines,17-08-2024,Frankfurt,Shanghai,18-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,18-08-2024,Frankfurt,Berlin,19-08-2024,01:10,11:45,12:55,False,00:00,333.6
+AustrianAirlines,18-08-2024,Frankfurt,Hamburg,19-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,18-08-2024,Frankfurt,München,19-08-2024,00:55,12:15,13:10,False,00:00,369.0
+AustrianAirlines,18-08-2024,Frankfurt,London,19-08-2024,01:25,18:10,18:35,False,00:00,273.52
+AustrianAirlines,18-08-2024,Frankfurt,Palma de Mallorca,19-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,18-08-2024,Frankfurt,Istanbul,19-08-2024,03:00,09:05,13:05,False,00:00,299.65
+AustrianAirlines,18-08-2024,Frankfurt,Dubai,19-08-2024,11:35,07:30,21:05,True,03:10,933.66
+AustrianAirlines,18-08-2024,Frankfurt,New York,19-08-2024,10:55,07:50,12:45,True,01:15,1601.42
+AustrianAirlines,18-08-2024,Frankfurt,Shanghai,19-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,19-08-2024,Frankfurt,Berlin,20-08-2024,01:10,14:45,15:55,False,00:00,333.6
+AustrianAirlines,19-08-2024,Frankfurt,Hamburg,20-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,19-08-2024,Frankfurt,München,20-08-2024,00:55,13:15,14:10,False,00:00,369.0
+AustrianAirlines,19-08-2024,Frankfurt,London,20-08-2024,01:25,16:00,16:25,False,00:00,235.6
+AustrianAirlines,19-08-2024,Frankfurt,Palma de Mallorca,20-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,19-08-2024,Frankfurt,Istanbul,20-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,19-08-2024,Frankfurt,Dubai,20-08-2024,25:25,17:40,21:05,True,14:58,933.68
+AustrianAirlines,19-08-2024,Frankfurt,New York,20-08-2024,12:05,06:40,12:45,True,02:25,1600.94
+AustrianAirlines,19-08-2024,Frankfurt,Shanghai,20-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,20-08-2024,Frankfurt,Berlin,21-08-2024,01:10,11:45,12:55,False,00:00,333.6
+AustrianAirlines,20-08-2024,Frankfurt,Hamburg,21-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,20-08-2024,Frankfurt,München,21-08-2024,00:55,13:15,14:10,False,00:00,369.0
+AustrianAirlines,20-08-2024,Frankfurt,London,21-08-2024,01:25,06:50,07:15,False,00:00,235.69
+AustrianAirlines,20-08-2024,Frankfurt,Palma de Mallorca,21-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,20-08-2024,Frankfurt,Istanbul,21-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,20-08-2024,Frankfurt,Dubai,21-08-2024,12:25,06:40,21:05,True,05:05,1019.79
+AustrianAirlines,20-08-2024,Frankfurt,New York,21-08-2024,11:10,15:00,20:10,True,01:25,1452.84
+AustrianAirlines,20-08-2024,Frankfurt,Shanghai,21-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,21-08-2024,Frankfurt,Berlin,22-08-2024,01:10,09:45,10:55,False,00:00,333.6
+AustrianAirlines,21-08-2024,Frankfurt,Hamburg,22-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,21-08-2024,Frankfurt,München,22-08-2024,00:55,13:15,14:10,False,00:00,369.0
+AustrianAirlines,21-08-2024,Frankfurt,London,22-08-2024,01:25,08:15,08:40,False,00:00,235.67
+AustrianAirlines,21-08-2024,Frankfurt,Palma de Mallorca,22-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,21-08-2024,Frankfurt,Istanbul,22-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,21-08-2024,Frankfurt,Dubai,22-08-2024,06:30,14:05,22:35,False,00:00,953.51
+AustrianAirlines,21-08-2024,Frankfurt,New York,22-08-2024,11:30,13:15,18:45,True,01:55,1575.74
+AustrianAirlines,21-08-2024,Frankfurt,Shanghai,22-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,22-08-2024,Frankfurt,Berlin,23-08-2024,01:10,21:15,22:25,False,00:00,207.6
+AustrianAirlines,22-08-2024,Frankfurt,Hamburg,23-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,22-08-2024,Frankfurt,München,23-08-2024,00:55,20:15,21:10,False,00:00,285.0
+AustrianAirlines,22-08-2024,Frankfurt,London,23-08-2024,01:25,06:50,07:15,False,00:00,235.66
+AustrianAirlines,22-08-2024,Frankfurt,Palma de Mallorca,23-08-2024,02:10,09:05,11:15,False,00:00,315.98
+AustrianAirlines,22-08-2024,Frankfurt,Istanbul,23-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,22-08-2024,Frankfurt,Dubai,23-08-2024,06:30,14:05,22:35,False,00:00,999.5
+AustrianAirlines,22-08-2024,Frankfurt,New York,23-08-2024,10:55,07:50,12:45,True,01:15,1600.65
+AustrianAirlines,22-08-2024,Frankfurt,Shanghai,23-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,23-08-2024,Frankfurt,Berlin,24-08-2024,01:10,06:45,07:55,False,00:00,177.6
+AustrianAirlines,23-08-2024,Frankfurt,Hamburg,24-08-2024,01:05,06:30,07:35,False,00:00,241.08
+AustrianAirlines,23-08-2024,Frankfurt,München,24-08-2024,00:55,07:15,08:10,False,00:00,189.0
+AustrianAirlines,23-08-2024,Frankfurt,London,24-08-2024,01:40,21:30,22:10,False,00:00,276.65
+AustrianAirlines,23-08-2024,Frankfurt,Palma de Mallorca,24-08-2024,02:10,04:50,07:00,False,00:00,315.98
+AustrianAirlines,23-08-2024,Frankfurt,Istanbul,24-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,23-08-2024,Frankfurt,Dubai,24-08-2024,25:25,17:40,21:05,True,14:58,940.88
+AustrianAirlines,23-08-2024,Frankfurt,New York,24-08-2024,11:10,15:00,20:10,True,01:25,1387.58
+AustrianAirlines,23-08-2024,Frankfurt,Shanghai,24-08-2024,14:00,20:00,16:00,True,01:50,3503.06
+AustrianAirlines,24-08-2024,Frankfurt,Berlin,25-08-2024,01:10,07:45,08:55,False,00:00,177.6
+AustrianAirlines,24-08-2024,Frankfurt,Hamburg,25-08-2024,01:05,06:30,07:35,False,00:00,241.08
+AustrianAirlines,24-08-2024,Frankfurt,München,25-08-2024,00:55,07:15,08:10,False,00:00,189.0
+AustrianAirlines,24-08-2024,Frankfurt,London,25-08-2024,01:25,16:50,17:15,False,00:00,235.73
+AustrianAirlines,24-08-2024,Frankfurt,Palma de Mallorca,25-08-2024,02:10,04:50,07:00,False,00:00,315.98
+AustrianAirlines,24-08-2024,Frankfurt,Istanbul,25-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,24-08-2024,Frankfurt,Dubai,25-08-2024,06:30,14:05,22:35,False,00:00,997.5
+AustrianAirlines,24-08-2024,Frankfurt,New York,25-08-2024,12:05,06:40,12:45,True,02:25,1600.63
+AustrianAirlines,24-08-2024,Frankfurt,Shanghai,25-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,25-08-2024,Frankfurt,Berlin,26-08-2024,01:10,11:45,12:55,False,00:00,333.6
+AustrianAirlines,25-08-2024,Frankfurt,Hamburg,26-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,25-08-2024,Frankfurt,München,26-08-2024,00:55,12:15,13:10,False,00:00,369.0
+AustrianAirlines,25-08-2024,Frankfurt,London,26-08-2024,01:25,16:00,16:25,False,00:00,295.73
+AustrianAirlines,25-08-2024,Frankfurt,Palma de Mallorca,26-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,25-08-2024,Frankfurt,Istanbul,26-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,25-08-2024,Frankfurt,Dubai,26-08-2024,11:15,07:50,21:05,True,03:55,1019.91
+AustrianAirlines,25-08-2024,Frankfurt,New York,26-08-2024,11:50,10:25,16:15,True,02:00,1596.78
+AustrianAirlines,25-08-2024,Frankfurt,Shanghai,26-08-2024,17:15,07:50,07:05,True,04:15,1530.17
+AustrianAirlines,26-08-2024,Frankfurt,Berlin,27-08-2024,01:10,14:45,15:55,False,00:00,333.6
+AustrianAirlines,26-08-2024,Frankfurt,Hamburg,27-08-2024,01:05,21:15,22:20,False,00:00,407.08
+AustrianAirlines,26-08-2024,Frankfurt,München,27-08-2024,00:55,15:15,16:10,False,00:00,369.0
+AustrianAirlines,26-08-2024,Frankfurt,London,27-08-2024,01:25,06:50,07:15,False,00:00,235.73
+AustrianAirlines,26-08-2024,Frankfurt,Palma de Mallorca,27-08-2024,02:05,10:20,12:25,False,00:00,315.98
+AustrianAirlines,26-08-2024,Frankfurt,Istanbul,27-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,26-08-2024,Frankfurt,Dubai,27-08-2024,11:15,07:50,21:05,True,03:55,1019.91
+AustrianAirlines,26-08-2024,Frankfurt,New York,27-08-2024,11:30,07:50,13:20,True,01:25,1600.63
+AustrianAirlines,26-08-2024,Frankfurt,Shanghai,27-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,27-08-2024,Frankfurt,Berlin,28-08-2024,01:10,14:45,15:55,False,00:00,333.6
+AustrianAirlines,27-08-2024,Frankfurt,Hamburg,28-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,27-08-2024,Frankfurt,München,28-08-2024,00:55,15:15,16:10,False,00:00,369.0
+AustrianAirlines,27-08-2024,Frankfurt,London,28-08-2024,01:25,16:00,16:25,False,00:00,295.8
+AustrianAirlines,27-08-2024,Frankfurt,Palma de Mallorca,28-08-2024,02:10,13:05,15:15,False,00:00,315.98
+AustrianAirlines,27-08-2024,Frankfurt,Istanbul,28-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,27-08-2024,Frankfurt,Dubai,28-08-2024,06:30,14:05,22:35,False,00:00,1011.49
+AustrianAirlines,27-08-2024,Frankfurt,New York,28-08-2024,10:55,07:50,12:45,True,01:15,1600.41
+AustrianAirlines,27-08-2024,Frankfurt,Shanghai,28-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,28-08-2024,Frankfurt,Berlin,29-08-2024,01:10,12:45,13:55,False,00:00,333.6
+AustrianAirlines,28-08-2024,Frankfurt,Hamburg,29-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,28-08-2024,Frankfurt,München,29-08-2024,00:55,13:15,14:10,False,00:00,369.0
+AustrianAirlines,28-08-2024,Frankfurt,London,29-08-2024,01:25,06:50,07:15,False,00:00,290.8
+AustrianAirlines,28-08-2024,Frankfurt,Palma de Mallorca,29-08-2024,02:10,13:05,15:15,False,00:00,315.98
+AustrianAirlines,28-08-2024,Frankfurt,Istanbul,29-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,28-08-2024,Frankfurt,Dubai,29-08-2024,11:15,07:50,21:05,True,03:55,1019.92
+AustrianAirlines,28-08-2024,Frankfurt,New York,29-08-2024,10:55,07:50,12:45,True,01:15,1600.50
+AustrianAirlines,28-08-2024,Frankfurt,Shanghai,29-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,29-08-2024,Frankfurt,Berlin,30-08-2024,01:10,09:45,10:55,False,00:00,282.6
+AustrianAirlines,29-08-2024,Frankfurt,Hamburg,30-08-2024,01:05,20:15,21:20,False,00:00,313.08
+AustrianAirlines,29-08-2024,Frankfurt,München,30-08-2024,00:55,20:15,21:10,False,00:00,317.0
+AustrianAirlines,29-08-2024,Frankfurt,London,30-08-2024,01:25,06:50,07:15,False,00:00,453.84
+AustrianAirlines,29-08-2024,Frankfurt,Palma de Mallorca,30-08-2024,02:10,09:05,11:15,False,00:00,315.98
+AustrianAirlines,29-08-2024,Frankfurt,Istanbul,30-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,29-08-2024,Frankfurt,Dubai,30-08-2024,11:15,07:50,21:05,True,03:55,1019.97
+AustrianAirlines,29-08-2024,Frankfurt,New York,30-08-2024,11:30,07:50,13:20,True,01:25,1600.56
+AustrianAirlines,29-08-2024,Frankfurt,Shanghai,30-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,30-08-2024,Frankfurt,Berlin,31-08-2024,01:10,06:45,07:55,False,00:00,177.6
+AustrianAirlines,30-08-2024,Frankfurt,Hamburg,31-08-2024,01:05,06:30,07:35,False,00:00,241.08
+AustrianAirlines,30-08-2024,Frankfurt,München,31-08-2024,00:55,07:15,08:10,False,00:00,189.0
+AustrianAirlines,30-08-2024,Frankfurt,London,31-08-2024,01:40,08:00,08:40,False,00:00,540.65
+AustrianAirlines,30-08-2024,Frankfurt,Palma de Mallorca,31-08-2024,02:10,04:50,07:00,False,00:00,315.98
+AustrianAirlines,30-08-2024,Frankfurt,Istanbul,31-08-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,30-08-2024,Frankfurt,Dubai,31-08-2024,12:25,06:40,21:05,True,05:05,1020.07
+AustrianAirlines,30-08-2024,Frankfurt,New York,31-08-2024,11:20,07:15,12:35,True,01:25,1601.46
+AustrianAirlines,30-08-2024,Frankfurt,Shanghai,31-08-2024,12:15,15:00,09:15,False,00:00,1521.76
+AustrianAirlines,31-08-2024,Frankfurt,Berlin,01-09-2024,01:10,06:45,07:55,False,00:00,177.6
+AustrianAirlines,31-08-2024,Frankfurt,Hamburg,01-09-2024,01:05,06:30,07:35,False,00:00,241.08
+AustrianAirlines,31-08-2024,Frankfurt,München,01-09-2024,00:55,07:15,08:10,False,00:00,189.0
+AustrianAirlines,31-08-2024,Frankfurt,London,01-09-2024,01:40,08:00,08:40,False,00:00,536.65
+AustrianAirlines,31-08-2024,Frankfurt,Palma de Mallorca,01-09-2024,02:10,04:50,07:00,False,00:00,315.98
+AustrianAirlines,31-08-2024,Frankfurt,Istanbul,01-09-2024,03:00,09:05,13:05,False,00:00,243.65
+AustrianAirlines,31-08-2024,Frankfurt,Dubai,01-09-2024,12:25,06:40,21:05,True,05:05,1020.10
+AustrianAirlines,31-08-2024,Frankfurt,New York,01-09-2024,11:20,07:15,12:35,True,01:25,1601.59
+AustrianAirlines,31-08-2024,Frankfurt,Shanghai,01-09-2024,12:15,15:00,09:15,False,00:00,1521.76
